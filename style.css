@@ -60,3 +60,22 @@ body {
 .group:nth-child(1) {
   min-height: 19rem;
 }
+
+
+.instagram-logo {
+  height: 4rem;
+  margin-bottom: 1rem;
+}
+
+.profile-photo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.profile-photo img {
+  height: 8rem;
+}
