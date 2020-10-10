@@ -79,3 +79,25 @@ body {
 .profile-photo img {
   height: 8rem;
 }
+
+.instagram-login {
+  background-color: #0095f6;
+  color: #fff;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.instagram-logout {
+  color: #0095f6;
+  margin-top: 1rem;
+}
+
+.not-account {
+  color: rgb(160, 160, 160);
+  line-height: 1.5;
+}
+
+.link-blue {
+  color: #0095f6;
+  cursor: pointer;
+}
